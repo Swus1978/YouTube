@@ -1,0 +1,58 @@
+.title {
+  background-color: red;
+  color: #fff;
+  padding-left: 24px;
+  padding-top: 24px;
+  padding-bottom: 24px;
+  margin: 0;
+  font-size: 16px;
+}
+
+body {
+  margin: 0;
+  font-family: " sans-serif";
+}
+
+.body-2 {
+  margin: 16px;
+  font-family: sans-serif;
+
+}
+
+p {
+  margin: 0;
+}
+
+
+.main {
+  margin-left: 26px;
+}
+
+.features {
+  font-size: x-large;
+  font-weight: 900;
+}
+
+.like-btn {
+  position: relative;
+  top: 8px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 12px;
+  padding-right: 12px;
+  background-color: red;
+  color: #fff;
+  border-radius: 8px;
+  font-size: 16px;
+  margin-top: 8px;
+  border: 2px solid #000;
+}
+
+.likesCount {
+  margin-top: 10px;
+}
+
+img {
+  width: 560px;
+  height: 315px;
+}
